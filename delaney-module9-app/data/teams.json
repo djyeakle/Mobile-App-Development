@@ -1,0 +1,184 @@
+{
+  "teams": [
+  {
+    "id": "PIT",
+    "name": "Pittsburgh Steelers",
+    "city": "Pittsburgh",
+    "conference": "AFC",
+    "players": [
+      {
+        "name": "Chris Boswell",
+        "position": "K",
+        "number": "9"
+      },
+      {
+        "name": "Pat Freiermuth",
+        "position": "TE",
+        "number": "88"
+      }
+    ]
+  },
+  {
+    "id": "PHI",
+    "name": "Philadelphia Eagles",
+    "city": "Philadelphia",
+    "conference": "NFC",
+    "players": [
+      {
+        "name": "Saquon Barkley",
+        "position": "RB",
+        "number": "26"
+      },
+      {
+        "name": "Jalen Carter",
+        "position": "DT",
+        "number": "98"
+      }
+    ]
+  },
+  {
+    "id": "BUF",
+    "name": "Buffalo Bills",
+    "city": "Buffalo",
+    "conference": "AFC",
+    "players": [
+      {
+        "name": "Josh Allen",
+        "position": "QB",
+        "number": "17"
+      },
+      {
+        "name": "Lloyd Cushenberry",
+        "position": "C",
+        "number": "53"
+      }
+    ]
+  },
+  {
+    "id": "CLE",
+    "name": "Cleveland Browns",
+    "city": "Cleveland",
+    "conference": "AFC",
+    "players": [
+      {
+        "name": "Mike Hall Jr.",
+        "position": "DT",
+        "number": "51"
+      },
+      {
+        "name": "Tylan Wallace",
+        "position": "WR",
+        "number": "16"
+      }
+    ]
+  },
+  {
+    "id": "DEN",
+    "name": "Denver Broncos",
+    "city": "Denver",
+    "conference": "AFC",
+    "players": [
+      {
+        "name": "Bo Nix",
+        "position": "QB",
+        "number": "10"
+      },
+      {
+        "name": "Que Robinson",
+        "position": "OLB",
+        "number": "51"
+      }
+    ]
+  },
+  {
+    "id": "NE",
+    "name": "New England Patriots",
+    "city": "New England",
+    "conference": "AFC",
+    "players": [
+      {
+        "name": "Dre'Mont Jones",
+        "position": "LB",
+        "number": "5"
+      },
+      {
+        "name": "Craig Woodson",
+        "position": "S",
+        "number": "4"
+      }
+    ]
+  },
+  {
+    "id": "DAL",
+    "name": "Dallas Cowboys",
+    "city": "Dallas",
+    "conference": "NFC",
+    "players": [
+      {
+        "name": "T.J. Bass",
+        "position": "G",
+        "number": "66"
+      },
+      {
+        "name": "Tyrus Wheat",
+        "position": "OLB",
+        "number": "59"
+      }
+    ]
+  },
+  {
+    "id": "GRE",
+    "name": "Green Bay Packers",
+    "city": "Green Bay",
+    "conference": "NFC",
+    "players": [
+      {
+        "name": "Kaleb Johnson",
+        "position": "RB",
+        "number": "26"
+      },
+      {
+        "name": "Xavier McKinney",
+        "position": "S",
+        "number": "29"
+      }
+    ]
+  },
+  {
+    "id": "SAN",
+    "name": "San Francisco 49ers",
+    "city": "San Francisco",
+    "conference": "NFC",
+    "players": [
+      {
+        "name": "Tatum Bethune",
+        "position": "LB",
+        "number": "48"
+      },
+      {
+        "name": "Brock Purdy",
+        "position": "QB",
+        "number": "13"
+      }
+    ]
+  },
+  {
+    "id": "CIN",
+    "name": "Cincinati Bears",
+    "city": "Cincinati",
+    "conference": "NFC",
+    "players": [
+      {
+        "name": "Devin Bush",
+        "position": "LB",
+        "number": "12"
+      },
+      {
+        "name": "Grady Jarrett",
+        "position": "DL",
+        "number": "50"
+      }
+    ]
+  }
+]
+}
